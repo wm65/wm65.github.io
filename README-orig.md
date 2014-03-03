@@ -1,6 +1,7 @@
 Anleitung:
 http://joshualande.com/2014/02/03/jekyll-github-pages-poole/
 
+http://in-the-attic.com/2013/01/04/building-a-blog-using-jekyll-bootstrap-and-github-pages-a-beginners-guide/
 
 # Poole
 

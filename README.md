@@ -1,4 +1,8 @@
 wm65.github.io
 =============
 
-This is my blog.
+Very interesting things are happening all the time.
+
+And you are now rigt in between ;-)
+
+

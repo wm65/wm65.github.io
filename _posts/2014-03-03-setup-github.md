@@ -10,6 +10,7 @@ title: Setting up my account on github
 
 Motivation
 =============
+
 With my github account <a href="#">wm65</a> it is possible to host repositories, 
 have a personal homepage, have an issue managementsystem, a blog and *that all for free!*
 
@@ -29,7 +30,6 @@ Steps
 There you can put your ```html-```, ```css-``` and ```js```-files for your homepage. They even have an [Automatic Page Generator](https://help.github.com/articles/creating-pages-with-the-automatic-generator), which you can use.
 
 But there's more: Static page generation with [Jekyll](http://jekyllrb.com/). 
-
 * setup Jekyll-templates, but that's a topic for tomorrow ...
 
 

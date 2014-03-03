@@ -1,0 +1,24 @@
+# Dependencies
+markdown:         redcarpet
+pygments:         true
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            wm65
+tagline:          'The Jekyll Butler'
+description:      'Base theme for Jekyll themes by @mdo.'
+url:              http://wm65.github.io
+
+author:
+  name:           'Werner Mueller'
+  url:            https://wm65.github.io
+
+paginate:         1
+
+# Custom vars
+version:          1.0.0
+
+github:
+  repo:           https://github.com/wm65/wm65.github.io

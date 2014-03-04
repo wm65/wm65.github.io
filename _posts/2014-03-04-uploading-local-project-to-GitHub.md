@@ -1,5 +1,6 @@
 ---
 layout: post
+title: uploading-local-project-to-GitHub
 categories: [git]
 ---
 

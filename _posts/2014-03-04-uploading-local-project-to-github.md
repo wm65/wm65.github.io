@@ -7,7 +7,7 @@ categories: [git test]
 
 If you have been working on a project and now want to upload it to a new GitHub-repository, you have to do the following:
 
-1. create a new repo at GitHub --> GitHub provides you with the ssh-address
+1. create a new repo at GitHub: GitHub provides you with the ssh-address
 1. go into your project directory ```cd <project>```
 2. If you want a readme-file ```touch README.md```
 3. initialize your repository ```git init```

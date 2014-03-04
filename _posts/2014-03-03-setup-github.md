@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Setting up my account on github
+categories: git, jekyll
 ---
 
 

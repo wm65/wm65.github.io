@@ -8,8 +8,8 @@ title: Categories
       <div class="categories">
             <ul>
             {% for category in site.categories %}
-              <h5>{{ category | first | slugize }}</h5>
-              {% for post in {{ category | last }} %}
+              <h5>{{ category | first | slugize }} ({{ category | last | size}})</h5>
+              {% for post in category.last %}
                  <li><a href="{{ post.url }}">{{ post.title }}</a></li>
               {% endfor %}
             {% endfor %}

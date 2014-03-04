@@ -19,6 +19,7 @@ paginate:         1
 
 pages_list:       
   About: '/about'
+  Categories: '/categories/index.html'
   Archive: '/archive'
   Feed: '/atom.xml'
 

@@ -15,8 +15,7 @@ Motivation
 With my github account <a href="#">wm65</a> it is possible to host repositories, 
 have a personal homepage, have an issue managementsystem, a blog and *that all for free!*
 
-> One aspect of special interest for me is the possibility to work on artefacts together with other people
-never **loosing the history** or overwriting contents by accident. 
+> One aspect of special interest for me is the possibility to work on artefacts together with other people never **loosing the history** or overwriting contents by accident. 
 
 
 Steps

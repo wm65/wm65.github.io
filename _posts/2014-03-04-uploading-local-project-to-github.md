@@ -79,6 +79,24 @@ Projektstart
 1. debug
 
 
+Projekt einrichten
+====================
+Gradleimport funktioniert nicht --> Problem mit Tomcat
+
+* deswegen `gradlew eclipse`
+* In STS ''Import existing project''
+* --> groovy-all jar fehlt
+* --> groovy-plugin fehlt
+``` groovy
+	apply plugin: 'groovy'
+
+ 	// groovy support
+	compile "org.codehaus.groovy:groovy-all:${groovyVersion}:indy"
+```
+* compile "javax.validation:validation-api:1.0.0.GA"  einbauen
+
+
+
 
 
 

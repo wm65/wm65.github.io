@@ -88,7 +88,14 @@ Gradleimport funktioniert nicht --> Problem mit Tomcat
 
 * spock und spock-eclipse fehlt
 
+Gradle-Tomcat-Plugin
+======================
+* Tomcat-configuration: ```/src/main/webapp/META-INF/context.xml``` is used by tomcatRun
 
+
+Spring and JPA
+==================
+* in ```@Service``` you can use ```@Autowired ApplicationContext ctx``` and then ```ctx.getBean(...)```
 
 
 

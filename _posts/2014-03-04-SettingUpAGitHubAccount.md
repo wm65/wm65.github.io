@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Setting up my account on github
-categories: [wm65-git, wm65-jekyll]
+categories: [git, jekyll]
 ---
 
 

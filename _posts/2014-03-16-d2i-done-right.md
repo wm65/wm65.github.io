@@ -1,7 +1,7 @@
 ---
 layout: post
 title: d2i done right
-categories: [d2i spring sts]
+categories: [d2i,spring,sts]
 ---
 
 
